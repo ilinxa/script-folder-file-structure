@@ -1,0 +1,18 @@
+# Ignore these directories
+__pycache__
+node_modules
+venv
+env
+.git
+build
+dist
+.env.local
+
+# Ignore specific files
+*.log
+*.tmp
+*.swp
+*.pyc
+
+# Ignore all hidden files
+.*
