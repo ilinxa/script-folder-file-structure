@@ -76,6 +76,3 @@ outputs/my-project.json
 
 ## 🛠️ License
 MIT – Feel free to modify and reuse!
-```
-Sure! Here's the **README.md** in Markdown format that you can copy directly into your project:
-```
